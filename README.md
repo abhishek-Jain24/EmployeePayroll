@@ -47,11 +47,11 @@ A Java console application demonstrating core OOP concepts through a real-world 
 ## Sample Output
 
 ```
-Employee Aaksh has been added to the Payroll
+Employee Aakash has been added to the Payroll
 Employee Rajat has been added to the Payroll
 
 --- Payslips ---
-Name: Aaksh, Id: 1, Salary: 55000.0
+Name: Aakash, Id: 1, Salary: 55000.0
 Total Salary: ₹55000.0
 --------------------------------------
 Name: Rajat, Id: 2, Salary: 16000.0
@@ -59,7 +59,7 @@ Total Salary: ₹16000.0
 --------------------------------------
 
 --- Paying All Employees ---
-Aaksh get 55000.0 which is full time employee
+Aakash get 55000.0 which is full time employee
 Rajat get 16000.0 which is part time employee
 
 --- Remove Employee ID 2 ---
