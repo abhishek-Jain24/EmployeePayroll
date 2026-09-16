@@ -45,6 +45,8 @@ A Java console application demonstrating core OOP concepts through a real-world 
 ---
 
 ## Sample Output
+
+```
 Employee Aaksh has been added to the Payroll
 Employee Rajat has been added to the Payroll
 
@@ -69,5 +71,5 @@ Employee with ID 99 not found
 --- Remaining Employees ---
 Count: 1
 
-Process finished with exit code 0
+```
   
